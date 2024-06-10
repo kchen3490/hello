@@ -1,6 +1,7 @@
 Here are some ways to say hello in some of the most widely spoken languages in the world:
 
 1. **Mandarin Chinese**: 你好 (Nǐ hǎo)
+1.5. Cantonese Chinese**: [same spelling] (neih hou)
 2. **Spanish**: Hola
 3. **English**: Hello
 4. **Hindi**: नमस्ते (Namaste)
